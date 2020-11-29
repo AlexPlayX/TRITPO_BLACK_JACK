@@ -58,7 +58,8 @@ C# — объектно-ориентированный язык программ
   <a name="to_be"/>
   
  ## "To be" архитектура: 
- 1. Диаграмма развертывания.      
+ 1. Диаграмма развертывания.   
+ 
  ![](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Diagrams/Deployment%20diagram1.png)
 
  <a name="part2"/>
@@ -78,9 +79,11 @@ C# — объектно-ориентированный язык программ
 - UI - интерфейс
  
  1. Диаграмма развертывания.
+ 
  ![](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Diagrams/Deployment%20diagram2.png)
  
  3. Диаграмма классов
+ 
  ![](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Diagrams/ClassDiagram.png)
  
  <a name="part3"/>

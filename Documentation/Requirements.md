@@ -22,13 +22,14 @@
 Проект использует платформу [Unity](https://unity.com/).
 
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-- Игровое меню 
+- Стартовое меню 
 
-  ![Игровое меню]()
+  ![Стартовое меню](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Mockups/StartScreen.png)
   
 - Игровой процесс
 
-  ![Игровой процесс]()
+  ![Игровой процесс](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Mockups/Bet.png)
+  ![]https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Mockups/HitStand.png
   
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
   Целевая аудитория игры - школьники, студенты, взрослые, люди которые хотят занять себя на досуге. 

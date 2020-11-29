@@ -29,7 +29,7 @@
 - Игровой процесс
 
   ![Игровой процесс](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Mockups/Bet.png)
-  ![]https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Mockups/HitStand.png
+  ![Игровой процесс](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Mockups/HitStand.png)
   
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
   Целевая аудитория игры - школьники, студенты, взрослые, люди которые хотят занять себя на досуге. 

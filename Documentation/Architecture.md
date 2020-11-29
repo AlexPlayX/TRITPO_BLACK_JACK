@@ -57,12 +57,9 @@ C# — объектно-ориентированный язык программ
  
   <a name="to_be"/>
   
- ## "To be" архитектура:
- 1. Диаграмма компонентов.        
- ![]()
- 
- 2. Диаграмма развертывания.      
- ![]()
+ ## "To be" архитектура: 
+ 1. Диаграмма развертывания.      
+ ![](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Diagrams/Deployment%20diagram1.png)
 
  <a name="part2"/>
  
@@ -73,15 +70,18 @@ C# — объектно-ориентированный язык программ
  ## "As is" архитектура:
  Архитектура каждого модуля состоит из похожих наборов пакетов:
  Анализ архитектуры:
-
-  1. Диаграмма компонентов.
- ![]()
+-Game - общий класс для игры
+-Diler - для раздачи и Искусивенного интеллекта
+-Chip - оценка ставок
+-Card - анимация карт и рандом
+-Cardslot - распределение по всем моментам
+-UI - интерфейс
  
- 2. Диаграмма развертывания.
- ![]()
+ 1. Диаграмма развертывания.
+ ![](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Diagrams/Deployment%20diagram2.png)
  
  3. Диаграмма классов
- ![]()
+ ![](https://github.com/AlexPlayX/TRITPO_BLACK_JACK/blob/main/Documentation/Diagrams/ClassDiagram.png)
  
  <a name="part3"/>
  
